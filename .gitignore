@@ -1,0 +1,13 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+fastapi-env/
+#ide specific file
+.vscode/
+
+# Dependency directories
+venv/
+env/
+env.bak/
